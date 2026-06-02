@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweater-weather-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sweater Weather Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweater-weather-love/) |
+| **Get License** | [Commercial Licensing for Sweater Weather Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweater-weather-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the winter fading when you pull me near
+> Got that fire in the fireplace and nothing to fear
+> Every breath is like a promise in the midnight glow
+> Just wrap your arms around me and we'll take it slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
